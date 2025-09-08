@@ -1,6 +1,6 @@
-# Hi, I'm Ayush Sharma! 👋
+# Hi, I'm Kishan Kumar Gupta! 👋
 
-### 🚀 MERN Stack Developer | ⚡ DevOps Enthusiast | 🎌 Anime Fan
+### 🚀 MERN Stack Developer | ⚡ DevOps Enthusiast | 🎌 Basketball Fan
 
 Passionate about building scalable web apps, geeking out over distributed systems, and dropping anime references into tech convos.
 
@@ -10,9 +10,8 @@ Passionate about building scalable web apps, geeking out over distributed system
 
 - 🌱 Full stack developer learning **DevOps & Cloud**
 - 👯 Open to collaborate on **exciting open-source projects**
-- 📝 Writing tech blogs on [Hashnode](https://meayush.hashnode.dev/)
-- 📄 Here’s my [Resume](https://resume.byayush.com/resume.pdf)
-- 🎮 Geek mode: love anime, JRPGs, and hacking on side projects at 2 AM
+- 📄 Here’s my [Resume](https://drive.google.com/file/d/1oLfJSYJbsqpZ2GTUf3m27lguyRUIJ-S8/view?usp=drive_link)
+- 🎮 Geek mode: love cricket, JRPGs, and hacking on side projects at 2 AM
 
 ---
 
@@ -51,14 +50,14 @@ Passionate about building scalable web apps, geeking out over distributed system
 
 ## 📊 GitHub Stats
 
-![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meayushsharma&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meayushsharma&layout=compact&theme=radical)
+![Kishan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kish-an-gupta&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kish-an-gupta&layout=compact&theme=radical)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=meayushsharma&theme=darkhub)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Kish-an-gupta&theme=darkhub)
 
 ---
 
@@ -72,7 +71,7 @@ Passionate about building scalable web apps, geeking out over distributed system
 
 ## 👀 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=meayushsharma&label=Profile%20Visits&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Kish-an-gupta&label=Profile%20Visits&color=blueviolet&style=for-the-badge)
 
 ---
 
