@@ -17,6 +17,7 @@ Passionate about building scalable web applications, exploring distributed syste
 ## 🛠 Tech Stack & Tools
 
 ### 💻 Languages & Frameworks
+![C++](https://img.shields.io/badge/C++-F7DF1E?style=for-the-badge&logo=c++&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
