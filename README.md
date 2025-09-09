@@ -1,14 +1,13 @@
 # Hi, I'm Kishan Kumar Gupta! 👋
 
-### 🚀 MERN Stack Developer | ⚡ DevOps Enthusiast | 🎌 Basketball Fan
+### 🚀 MERN Stack Developer | ⚡ DevOps Enthusiast | 🎌 Cricket Fan
 
-Passionate about building scalable web apps, geeking out over distributed systems, and dropping anime references into tech convos.
-
+Passionate about building scalable web applications, exploring distributed systems, and drawing inspiration from Cricket to approach teamwork and problem-solving in technology.
 ---
 
 ## 🔥 About Me
 
-- 🌱 Full stack developer learning **DevOps & Cloud**
+- 🌱 Full stack developer learning **BackEnd**
 - 👯 Open to collaborate on **exciting open-source projects**
 - 📄 Here’s my [Resume](https://drive.google.com/file/d/1oLfJSYJbsqpZ2GTUf3m27lguyRUIJ-S8/view?usp=drive_link)
 - 🎮 Geek mode: love cricket, JRPGs, and hacking on side projects at 2 AM
@@ -63,9 +62,8 @@ Passionate about building scalable web apps, geeking out over distributed system
 
 ## 🌍 Connect with Me
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/devnokaze)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush--sharma/)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@meayush)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://x.com/devnokaze](https://x.com/kishan93419))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/ayush--sharma/](https://www.linkedin.com/in/kishan-kumar-gupta-41a375294/))
 
 ---
 
@@ -75,4 +73,4 @@ Passionate about building scalable web apps, geeking out over distributed system
 
 ---
 
-🚀 *"Code. Automate. Repeat. (and watch anime in between)"*
+🚀 *"Code. Automate. Repeat. (and watch movies in between)"*
