@@ -10,6 +10,7 @@ Passionate about building scalable web applications, exploring distributed syste
 - 🌱 Full stack developer learning **BackEnd**
 - 👯 Open to collaborate on **exciting open-source projects**
 - 📄 Here’s my [Resume](http://resume.kishangupta.com)
+- 📄 Here’s my [Portfolio](http://www.kishangupta.com)
 - 🎮 Geek mode: love cricket, JRPGs, and hacking on side projects at 2 AM
 
 ---
