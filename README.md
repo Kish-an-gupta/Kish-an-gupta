@@ -66,7 +66,7 @@ Passionate about building scalable web applications, exploring distributed syste
 ## 🌍 Connect with Me
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)]([https://x.com/kishan93419])
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/kishan-kumar-gupta-41a375294])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishan-kumar-gupta-41a375294)
 
 ---
 
