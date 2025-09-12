@@ -1,6 +1,6 @@
 # Hi, I'm Kishan Kumar Gupta! 👋
 
-### 🚀 MERN Stack Developer | ⚡ DevOps Enthusiast | 🎌 Cricket Fan
+### 🚀 MERN Stack Developer | ⚡ DevOps Enthusiast | 🎌 Cricket and Basketball Fan
 
 Passionate about building scalable web applications, exploring distributed systems, and drawing inspiration from Cricket to approach teamwork and problem-solving in technology.
 ---
@@ -11,7 +11,7 @@ Passionate about building scalable web applications, exploring distributed syste
 - 👯 Open to collaborate on **exciting open-source projects**
 - 📄 Here’s my [Resume](http://resume.kishangupta.com)
 - 📄 Here’s my [Portfolio](http://www.kishangupta.com)
-- 🎮 Geek mode: love cricket, JRPGs, and hacking on side projects at 2 AM
+- 🎮 Geek mode: Run the Code. Rule the Court.
 
 ---
 
