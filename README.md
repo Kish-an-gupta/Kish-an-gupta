@@ -59,7 +59,7 @@ Passionate about building scalable web applications, exploring distributed syste
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kish-an-gupta&theme=darkhub)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kish-an-gupta&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
